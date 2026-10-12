@@ -8,7 +8,7 @@
 
 - [ ] Set up repo and environment
   - [ ] Pin model versions (opus-mt-nl-en, bart-base-wikilarge-simplification, ul2-base-dutch-simplification)
-  - [ ] Pin library versions (`transformers`, `sentencepiece`, `easse`)
+  - [ ] Pin library versions (`trhansformers`, `sentencepiece`, `easse`)
   - [ ] Fix random seeds
 - [ ] Load the Amsterdam dataset
   - [ ] Compute stats: documents, sentence pairs, words, avg sentence length (complex vs simple)
