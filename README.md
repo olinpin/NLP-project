@@ -13,13 +13,9 @@
 - [x] Load the Amsterdam dataset
   - [ ] Compute stats: documents, sentence pairs, words, avg sentence length (complex vs simple)
 - [x] Load the SimPA dataset - 6e0c011d0166c1a8b571760c87bfd3779f3cce49
-  - [ ] Compute the same stats for a side-by-side table
+  - [x] Compute the same stats for a side-by-side table
 - [ ] Define the "complex sentence" sampling rule (length or readability threshold + seed) and write it down
 - [ ] Draw the 60-sentence human-eval sample
-- [ ] Check ethics requirements
-  - [ ] Check whether the UT faculty (BMS) requires ethics review for the human evaluation
-  - [ ] Write the consent text
-  - [ ] Make responses anonymous (participant ID only, no names)
 
 ## Week 2 (19–25 Oct): Experiments
 
