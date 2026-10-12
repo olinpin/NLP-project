@@ -6,10 +6,6 @@
 
 ## Week 1 (12–18 Oct): Setup and data
 
-- [ ] Reply to the teacher
-  - [ ] Clarify: no back-translation to Dutch; both sides of the Amsterdam pairs are translated to English
-  - [ ] Say we'll add SimPA (Scarton et al., 2018) as a clean English test set
-  - [ ] Confirm we're going ahead
 - [ ] Set up repo and environment
   - [ ] Pin model versions (opus-mt-nl-en, bart-base-wikilarge-simplification, ul2-base-dutch-simplification)
   - [ ] Pin library versions (`transformers`, `sentencepiece`, `easse`)
