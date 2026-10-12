@@ -6,13 +6,13 @@
 
 ## Week 1 (12–18 Oct): Setup and data
 
-- [ ] Set up repo and environment
-  - [ ] Pin model versions (opus-mt-nl-en, bart-base-wikilarge-simplification, ul2-base-dutch-simplification)
-  - [ ] Pin library versions (`trhansformers`, `sentencepiece`, `easse`)
-  - [ ] Fix random seeds
-- [ ] Load the Amsterdam dataset
+- [x] Set up repo and environment
+  - [x] Pin model versions (opus-mt-nl-en, bart-base-wikilarge-simplification, ul2-base-dutch-simplification)
+  - [x] Pin library versions (`trhansformers`, `sentencepiece`, `easse`)
+  - [x] Fix random seeds
+- [x] Load the Amsterdam dataset
   - [ ] Compute stats: documents, sentence pairs, words, avg sentence length (complex vs simple)
-- [ ] Load the SimPA dataset
+- [x] Load the SimPA dataset - 6e0c011d0166c1a8b571760c87bfd3779f3cce49
   - [ ] Compute the same stats for a side-by-side table
 - [ ] Define the "complex sentence" sampling rule (length or readability threshold + seed) and write it down
 - [ ] Draw the 60-sentence human-eval sample
