@@ -26,19 +26,19 @@
 - [ ] (Optional) English BART model on ASSET or TurkCorpus (in-domain comparison)
 
 ### Baselines
-- [ ] Translation only (opus-mt-nl-en, no simplification)
-- [ ] Identity (copy the source)
+- [x] Translation only (opus-mt-nl-en, no simplification)
+- [x] Identity (copy the source) — unprocessed Dutch, rock-bottom floor reference
 
 ### Pipelines
-- [ ] Run Pipeline 1 (translate → simplify) on the full Amsterdam input
-- [ ] Run Pipeline 2 (simplify → translate) on the full Amsterdam input
-- [ ] Translate the Dutch simple references to English (pseudo-references)
+- [x] Run Pipeline 1 (translate → simplify) on the full Amsterdam input
+- [x] Run Pipeline 2 (simplify → translate) on the full Amsterdam input
+- [x] Translate the Dutch simple references to English (pseudo-references)
 
 ### Automatic pipeline metrics
-- [ ] SARI (both pipelines + translation-only baseline)
-- [ ] FKGL (readability)
-- [ ] BERTScore against translation-only output (meaning preservation)
-- [ ] Regex check: do numbers, dates and names survive?
+- [x] SARI (both pipelines + translation-only baseline) — Translation-only 23.18, Pipeline 1 (translate→simplify) 35.61, Pipeline 2 (simplify→translate) 41.73
+- [x] FKGL (readability) — Translation-only 9.63, Pipeline 1 8.77, Pipeline 2 8.43 (lower = simpler; vowel-group syllable heuristic, approximate)
+- [x] BERTScore against translation-only output (meaning preservation) — Pipeline 1 F1 = 0.965, Pipeline 2 F1 = 0.922 (Pipeline 2 drifts further from the translation-only meaning, consistent with simplifying before translation compounding more change)
+- [x] Regex check: do numbers, dates and names survive? — Pipeline 1: 86.2% numbers / 95.7% dates / 88.2% capitalized-words kept; Pipeline 2: 80.9% / 73.9% / 73.0% (capitalized-words is a cheap proxy for names, not real NER; see `project.ipynb`)
 
 ### Evaluation website
 - [ ] Show Dutch source + outputs A/B in random order

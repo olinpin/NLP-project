@@ -1,0 +1,482 @@
+[
+  {
+    "item_id": "s01",
+    "doc_id": 1,
+    "complex_nl": "Ook komt naar voren dat verschillende bewoners niet bekend zijn met huidige vervoersalternatieven zoals de Buurtbus of niet weten hoe ze hiervan gebruik kunnen maken.",
+    "simple_nl": "Of niet weten hoe ze dat kunnen gebruiken.",
+    "pipeline1_translate_then_simplify": "Different residents are not familiar with current transport alternatives such as the Buurtbus or do not know how to use them .",
+    "pipeline2_simplify_then_translate": "The neighborhood bus is not good enough to use if the neighborhood bus or not know how to use the neighborhood bus."
+  },
+  {
+    "item_id": "s02",
+    "doc_id": 1,
+    "complex_nl": "Daarnaast geven de meeste bewoners aan buslijn 21 terug te willen in de buurt, of een betere verbinding met de dichtstbijzijnde bushalte.",
+    "simple_nl": "Daarnaast willen de meeste bewoners buslijn 21 terug in de buurt. Of een betere verbinding met de dichtstbijzijnde bushalte.",
+    "pipeline1_translate_then_simplify": "Most residents give to bus line 21 to want back in the neighborhood , or a better connection to the nearest bus stop .",
+    "pipeline2_simplify_then_translate": "Most people want bus 21 back in the neighborhood, or make a better connection to the nearest bus stop."
+  },
+  {
+    "item_id": "s03",
+    "doc_id": 4,
+    "complex_nl": "ma t/m vrij: 17:00 tot 08:00 uur, za en zo en nat.",
+    "simple_nl": "maandag tot en met vrijdag: 17:00 tot 08:00 uur",
+    "pipeline1_translate_then_simplify": "Mon to free: 17:00 to 08:00 , Sat and so on .",
+    "pipeline2_simplify_then_translate": "Mon till 5:00 p.m. to 8:00 p.m., Sat and so on."
+  },
+  {
+    "item_id": "s04",
+    "doc_id": 4,
+    "complex_nl": "GGD Amsterdam: 020-55 55 202 ma t/m vrij: 09.00 - 18.00 uur, za en zo 10.00 -17.00 uur.",
+    "simple_nl": "GGD Amsterdam: 0205 5 55 202 ma t/m vrij: 09.00 - 18.00 uur",
+    "pipeline1_translate_then_simplify": "GGD Amsterdam: 020-55 55 202 ma tot vrij: 09.00 - 18.00 hrs , Sat and Sun 10.00-17.00.",
+    "pipeline2_simplify_then_translate": "Fri and Sun 10.00 - 5 p.m., Sat and Sun 10.00 - 5 p.m."
+  },
+  {
+    "item_id": "s05",
+    "doc_id": 4,
+    "complex_nl": "Pak het vuile wasgoed (alleen in gesloten vuilniszak), de vuile vaat, afval etc.",
+    "simple_nl": "Pak het vuile wasgoed (alleen in gesloten vuilniszak), de vuile vaat, afval enzovoort van de kamer dat bij de deur staat.",
+    "pipeline1_translate_then_simplify": "Grab the dirty laundry ( only in closed garbage bag ) .",
+    "pipeline2_simplify_then_translate": "Take the dirty laundry (only in closed garbage bag), the rubbish (only in closed garbage bag), the rubbish in a closed garbage bag, the rubbish in a closed garbage bag, everything you don't put in closed garbage bag, everything you don't put in closed garbage bag, everything you don't put in closed garbage bag, everything you don't put in closed garbage bag, anything you don't put in closed garbage bag, anything you don't put in closed garbage bag, anything you don'"
+  },
+  {
+    "item_id": "s06",
+    "doc_id": 5,
+    "complex_nl": "Door het coronavirus worden er extra maatregelen genomen, zodat u coronaproof/veilig kunt stemmen.",
+    "simple_nl": "Door het coronavirus hebben we extra maatregelen zodat u veilig kunt stemmen.",
+    "pipeline1_translate_then_simplify": "The coronavirus allows you to vote coronaproof/safely .",
+    "pipeline2_simplify_then_translate": "We make coronaproof/safe. We make coronaproof/safe. We make coronaproof/safe. We make coronaproof/safe. We make coronaproof/safe. We make coronaproof/safe. We make coronaproof/safe. We make coronaproof/safe. We make coronaproof/safe. We make coronaproof/coronaproof/safe. We make coronaproof/coronaproof/safe."
+  },
+  {
+    "item_id": "s07",
+    "doc_id": 6,
+    "complex_nl": "Dat betekent dat werkzaamheden voor Weesp zoveel mogelijk in Weesp moeten worden uitgevoerd.",
+    "simple_nl": "Dat betekent dat werkzaamheden voor Weesp zoveel mogelijk in Weesp moeten gebeuren.",
+    "pipeline1_translate_then_simplify": "Work for Weesp should be carried out as much as possible in Weesp.",
+    "pipeline2_simplify_then_translate": "Working in Weesp must always be done in Weesp."
+  },
+  {
+    "item_id": "s08",
+    "doc_id": 7,
+    "complex_nl": "Dan kan het zijn dat u tijdens uw arbeidsongeschiktheid reiskosten maakt in verband met uw re-integratie.",
+    "simple_nl": "Als u langer dan 6 weken volledig arbeidsongeschikt bent, maakt u misschien reiskosten tijdens uw arbeidsongeschiktheid vanwege uw re-integratie.",
+    "pipeline1_translate_then_simplify": "Then you may be making travel expenses during your incapacity for work .",
+    "pipeline2_simplify_then_translate": "If you make travel expenses during your disability to help with your reintegration."
+  },
+  {
+    "item_id": "s09",
+    "doc_id": 9,
+    "complex_nl": "Uw leidinggevende heeft aangegeven dat u op grond van artikel 7.1, lid 7 PGA bij uw langdurige verzuim uw volledige salaris en salaristoelagen blijft houden.",
+    "simple_nl": "Uw leidinggevende gaf aan dat u bij uw langdurige verzuim uw volledige salaris en salaristoelagen blijft houden.",
+    "pipeline1_translate_then_simplify": "Under Article 7.1 (7 ) of the PGA , you will continue to keep your full salary and salary allowances in the event of your long-term absence .",
+    "pipeline2_simplify_then_translate": "If you do not pay in the event of a long default, you will continue to receive your salary and salary allowances under Article 7.1 (7) PGA in the event of a long default."
+  },
+  {
+    "item_id": "s10",
+    "doc_id": 11,
+    "complex_nl": "Met zonnepanelen op uw dak wekt u uw eigen duurzame energie op en bespaart u gemiddeld tussen de 300 en 600 euro per jaar op uw energierekening.",
+    "simple_nl": "Met zonnepanelen op uw dak wekt u uw eigen duurzame energie op. U bespaart daarmee gemiddeld tussen de € 300,- en € 600,- per jaar op uw energierekening.",
+    "pipeline1_translate_then_simplify": "With solar panels on your roof , you can generate your own sustainable energy and save between 300 and 600 euros per year .",
+    "pipeline2_simplify_then_translate": "With solar panels on your roof, you can generate renewable energy yourself and save on average 300 euros per year on your energy bill."
+  },
+  {
+    "item_id": "s11",
+    "doc_id": 13,
+    "complex_nl": "Het plangebied voor deze ontwikkeling heeft een centrale ligging in het gebied Bijlmer-Centrum.",
+    "simple_nl": "Het plangebied voor deze ontwikkeling ligt centraal in het gebied Bijlmer-Centrum.",
+    "pipeline1_translate_then_simplify": "The planning area for this development is in the Bijlmer-Centrum area .",
+    "pipeline2_simplify_then_translate": "The planning area for this development was built in the area Bijlmer-Center."
+  },
+  {
+    "item_id": "s12",
+    "doc_id": 13,
+    "complex_nl": "Het plan voorziet in een kwalitatief hoogwaardig programma van circa 700 woningen en een basisschool.",
+    "simple_nl": "Het plan levert een programma van ongeveer 700 woningen en een basisschool.",
+    "pipeline1_translate_then_simplify": "The plan provides for a high-quality programme of approximately 700 homes and a primary school .",
+    "pipeline2_simplify_then_translate": "The plan is a good plan with 700 homes and an elementary school."
+  },
+  {
+    "item_id": "s13",
+    "doc_id": 13,
+    "complex_nl": "Door een pad over het water aan te legen wordt de vorm van de vijver interessanter.",
+    "simple_nl": "We maken de vorm van de vijver met een brug en een wandelpad interessanter voor rondwandelen.",
+    "pipeline1_translate_then_simplify": "The shape of the pond becomes more interesting by emptying a path over the water .",
+    "pipeline2_simplify_then_translate": "By laying a path over the water the shape of the pond becomes more interesting."
+  },
+  {
+    "item_id": "s14",
+    "doc_id": 14,
+    "complex_nl": "Die aanpak moet gaan leiden tot een structurele verbetering voor de bewoners in het algemeen en voor jonge, opgroeiende bewoners van Zuidoost in het bijzonder.",
+    "simple_nl": "Die aanpak moet gaan leiden tot een blijvende verbetering voor de bewoners in het algemeen en voor jonge, opgroeiende bewoners van Zuidoost in het bijzonder.",
+    "pipeline1_translate_then_simplify": "This approach should lead to a structural improvement for the inhabitants in general and for young people in particular .",
+    "pipeline2_simplify_then_translate": "This approach should ensure better housing in Southeast, and for young young people living in Southeast."
+  },
+  {
+    "item_id": "s15",
+    "doc_id": 16,
+    "complex_nl": "Je kunt de vragenlijst thuis invullen of op het werk tijdens een bijeenkomst.",
+    "simple_nl": "Je kunt de vragenlijst thuis invullen. Of op het werk tijdens een bijeenkomst.",
+    "pipeline1_translate_then_simplify": "You can fill out the questionnaire at home or at work .",
+    "pipeline2_simplify_then_translate": "You can fill out the questionnaire at work or at work during a meeting."
+  },
+  {
+    "item_id": "s16",
+    "doc_id": 17,
+    "complex_nl": "Dan hoeft u niet extra langs te komen als uw kind 10 jaar is.",
+    "simple_nl": "U hoeft dan niet extra langs te komen als uw kind 10 jaar is.",
+    "pipeline1_translate_then_simplify": "Then you don't have to come by extra if your child is 10 years old .",
+    "pipeline2_simplify_then_translate": "If your child is 10 years old, you will no longer have to come if your child is 10 years old."
+  },
+  {
+    "item_id": "s17",
+    "doc_id": 18,
+    "complex_nl": "Op basis van de door u ingevulde gegevens blijkt dat u meer dan 200.000 kilowatt uur aan elektriciteit of meer 75.000 kubieke meter aardgasequivalenten aan brandstoffen verbruikt.",
+    "simple_nl": "Uit uw gegevens blijkt dat u meer dan 200.000 kilowattuur aan elektriciteit of meer 75.000 kubieke meter aardgasequivalenten aan brandstoffen verbruikt.",
+    "pipeline1_translate_then_simplify": "Based on the data you have filled in , you are using more than 200,000 kilowatt hours of electricity or more than 75,000 cubic metres of natural gas equivalent in fuels .",
+    "pipeline2_simplify_then_translate": "The data you have entered shows that you have consumed more than 200,000 kilowatts of electricity or more than 75,000 cubic metres of natural gas."
+  },
+  {
+    "item_id": "s18",
+    "doc_id": 18,
+    "complex_nl": "Op basis van artikel 2.15 lid 5 activiteitenbesluit dient u een energiebesparingsonderzoek te laten uitvoeren door een erkend bedrijf.",
+    "simple_nl": "Volgens artikel 2.15 lid 5 Activiteitenbesluit moet u een energiebesparingsonderzoek laten uitvoeren door een erkend bedrijf.",
+    "pipeline1_translate_then_simplify": "On the basis of Article 2.15 (5 ) activity decision , you must have an energy saving study carried out by an approved company .",
+    "pipeline2_simplify_then_translate": "To determine whether you want to have an energy saving study conducted, you need to have an energy saving study carried out by an approved company."
+  },
+  {
+    "item_id": "s19",
+    "doc_id": 20,
+    "complex_nl": "Door te stemmen kun je meebeslissen welke politieke partij in het parlement vertegenwoordigd is en daarmee hoe Nederland wordt bestuurd op het gebied van wonen, onderwijs, zorg en veiligheid.",
+    "simple_nl": "Door te stemmen kun je meebeslissen welke politieke partij in het parlement vertegenwoordigd is.",
+    "pipeline1_translate_then_simplify": "By voting you can decide which political party is represented in the parliament .",
+    "pipeline2_simplify_then_translate": "By voting you can decide which political party is in the parliament and how the Netherlands is governed in the areas of living, education, care and security."
+  },
+  {
+    "item_id": "s20",
+    "doc_id": 20,
+    "complex_nl": "En voor iedereen die liever niet een stembureau in gaat, bestaat er de mogelijkheid te stemmen vanuit de auto, in de stemstraat bij de RAI en in de Johan Cruijff-arena.",
+    "simple_nl": "Dat kan in de stemstraat bij de RAI en in de Johan Cruijff-arena.",
+    "pipeline1_translate_then_simplify": "For anyone who prefers not to enter a polling station , there is the possibility to vote from the car , in the street and in the Johan Cruijff-arena .",
+    "pipeline2_simplify_then_translate": "There is a possibility to vote for the car, in the voice street at RAI and in the Johan Cruijff-arena."
+  },
+  {
+    "item_id": "s21",
+    "doc_id": 21,
+    "complex_nl": "Stemmen op 15 of 16 maart Op 15 en 16 maart zijn er in Amsterdam al ongeveer 50 stembureaus geopend van 7.30 tot 21 uur.",
+    "simple_nl": "Stemmen op 15 of 16 maart 2021 Op 15 en 16 maart 2021 zijn er in Amsterdam al ongeveer 50 stembureaus open van 7.30 tot 21 uur.",
+    "pipeline1_translate_then_simplify": "Around 50 polling stations have already been opened in Amsterdam on 15 and 16 March from 7.30 a.m. to 9pm.",
+    "pipeline2_simplify_then_translate": "On 15 and 16 March, almost 50 polling stations will be open in Amsterdam from 7.30 a.m. to 9 p.m."
+  },
+  {
+    "item_id": "s22",
+    "doc_id": 21,
+    "complex_nl": "Als u zelf niet kunt stemmen, kunt een andere kiezer machtigen om voor u te stemmen.",
+    "simple_nl": "Misschien kunt u zelf niet stemmen. U kunt dan een andere kiezer machtigen om voor u te stemmen.",
+    "pipeline1_translate_then_simplify": "If you can not vote , another voter may be able to vote for you .",
+    "pipeline2_simplify_then_translate": "If you cannot decide what you want to vote, another voter can decide who will vote for you."
+  },
+  {
+    "item_id": "s23",
+    "doc_id": 21,
+    "complex_nl": "U kunt ook bellen met het informatienummer 14020 van de gemeente Amsterdam,van maandag tot en met vrijdag tussen 8.00 en 18.00 uur.",
+    "simple_nl": "U kunt ook bellen met het informatienummer 14020 van de gemeente Amsterdam. Dat kan van maandag tot en met vrijdag tussen 8.00 en 18.00 uur.",
+    "pipeline1_translate_then_simplify": "You can also call 14020 of the municipality of Amsterdam , from Monday to Friday between 8.00 and 18.00 .",
+    "pipeline2_simplify_then_translate": "The information number 14020 is from Monday to Friday between 8.00 and 18.00 hours, from Monday to Friday between 8.00 and 18.00 hours."
+  },
+  {
+    "item_id": "s24",
+    "doc_id": 22,
+    "complex_nl": "Stemmen op het stembureau In verband me het coronavirus, zorgt de gemeente Amsterdam voor een stembureau op loopafstand met een beperkte wachttijd.",
+    "simple_nl": "Stemmen op het stembureau Vanwege het coronavirus zorgen we voor een stembureau op loopafstand met een beperkte wachttijd.",
+    "pipeline1_translate_then_simplify": "Voices at the polling station In connection with the coronavirus , the municipality of Amsterdam provides a polling station within walking distance .",
+    "pipeline2_simplify_then_translate": "Because the municipality of Amsterdam has no polling office within walking distance, there is no polling office within walking distance."
+  },
+  {
+    "item_id": "s25",
+    "doc_id": 24,
+    "complex_nl": "Als inwoner van Weesp of Driemond mag u stemmen voor de Amsterdamse gemeenteraad en voor de bestuurscommissie van uw stadsgebied.",
+    "simple_nl": "U mag daarom stemmen voor de Amsterdamse gemeenteraad en voor de bestuurscommissie van uw stadsgebied.",
+    "pipeline1_translate_then_simplify": "You may vote for the Amsterdam City Council and for the board of directors of your city area .",
+    "pipeline2_simplify_then_translate": "As a resident of Weesp or Driemond you may vote for the city council and the board of directors of your area."
+  },
+  {
+    "item_id": "s26",
+    "doc_id": 24,
+    "complex_nl": "In Krant Amsterdam staat de kandidatenlijst met alle kandidaten en politieke partijen die meedoen aan de gemeenteraadsverkiezing en de bestuurscommissieverkiezing.",
+    "simple_nl": "In Krant Amsterdam staat de kandidatenlijst voor de gemeenteraadsverkiezing en de commissieverkiezingen. Daar vindt u alle kandidaten en politieke partijen die meedoen.",
+    "pipeline1_translate_then_simplify": "In Krant Amsterdam there is the list of candidates and political parties participating in the municipal election and the board election .",
+    "pipeline2_simplify_then_translate": "In the newspaper Amsterdam, the list of candidates with all candidates and political parties participating in the municipal election and the board election."
+  },
+  {
+    "item_id": "s27",
+    "doc_id": 25,
+    "complex_nl": "Hou er rekening mee dat u uw identiteitsbewijs na 5 werkdagen kunt ophalen.",
+    "simple_nl": "Het duurt daarna nog 5 werkdagen voordat u uw identiteitsbewijs kunt ophalen.",
+    "pipeline1_translate_then_simplify": "You can collect your ID after 5 working days .",
+    "pipeline2_simplify_then_translate": "Please note that you cannot collect your ID after 5 working days."
+  },
+  {
+    "item_id": "s28",
+    "doc_id": 26,
+    "complex_nl": "Als dat bij u het geval is zullen wij u daarover schriftelijk informeren en gelijktijdig ook een toelichting geven op wat er gaat gebeuren om een nieuwe gevelbevestiging te maken.",
+    "simple_nl": "Daarin vertellen we u wat er gaat gebeuren om een nieuwe gevelbevestiging te maken.",
+    "pipeline1_translate_then_simplify": "If that is the case with you , we will inform you in writing and explain what will happen to make a new facade confirmation .",
+    "pipeline2_simplify_then_translate": "If that is the case with you, we will inform you in writing and explain what will happen."
+  },
+  {
+    "item_id": "s29",
+    "doc_id": 26,
+    "complex_nl": "Zo zal er voor een nieuwe gevelverbinding een omgevingsvergunning moeten worden aangevraagd.",
+    "simple_nl": "Soms hebben we namelijk voor een nieuwe gevelverbinding een omgevingsvergunning nodig.",
+    "pipeline1_translate_then_simplify": "An environmental permit will have to be applied for for a new façade connection .",
+    "pipeline2_simplify_then_translate": "To create a new façade an environmental permit can be applied for."
+  },
+  {
+    "item_id": "s30",
+    "doc_id": 28,
+    "complex_nl": "Deze wijziging betekent dat u recht een hoger salaris dan u nu ontvangt.",
+    "simple_nl": "Deze wijziging betekent dat u recht hebt op een hoger salaris dan dat u nu ontvangt.",
+    "pipeline1_translate_then_simplify": "This means that you are entitled to a higher salary than you are currently receiving .",
+    "pipeline2_simplify_then_translate": "This change means that you are entitled to a higher salary than what you are currently receiving."
+  },
+  {
+    "item_id": "s31",
+    "doc_id": 28,
+    "complex_nl": "Ik vind het heel vervelend dat we bij de toekenning van uw toelage de regels toegepast.",
+    "simple_nl": "Ik vind het heel vervelend dat we bij de toekenning van uw toelage de regels verkeerd hebben toegepast.",
+    "pipeline1_translate_then_simplify": "I am very sorry that we are changing the rules when granting your allowance .",
+    "pipeline2_simplify_then_translate": "We are very sorry that we have used rules when granting your allowance."
+  },
+  {
+    "item_id": "s32",
+    "doc_id": 29,
+    "complex_nl": "Meer informatie over het indienen van een bezwaarschrift tegen een besluit van de gemeente Amsterdam vindt u op: onder het tabblad ‘Contact’.",
+    "simple_nl": "U vindt meer informatie over het indienen van een bezwaarschrift tegen een besluit van ons op: onder het tabblad ‘Contact’.",
+    "pipeline1_translate_then_simplify": "More information on the submission of an objection to a decision by the municipality of Amsterdam can be found at : under the tab:Contact .",
+    "pipeline2_simplify_then_translate": "If you want to object to a decision of the municipality of Amsterdam, you can do so at: under the tab Trust."
+  },
+  {
+    "item_id": "s33",
+    "doc_id": 30,
+    "complex_nl": "De ‘verklaring betalingsgedrag nakoming fiscale verplichtingen’ (deze vraagt u aan bij de belastingdienst).",
+    "simple_nl": "De ‘verklaring betalingsgedrag nakoming fiscale verplichtingen’.",
+    "pipeline1_translate_then_simplify": "The statement of payment behaviour fulfills tax obligations .",
+    "pipeline2_simplify_then_translate": "The payment statement for payment behaviour fulfills tax obligations (this you ask the tax authority)."
+  },
+  {
+    "item_id": "s34",
+    "doc_id": 30,
+    "complex_nl": "De ‘verklaring betalingsgedrag nakoming fiscale verplichtingen’ (deze vraagt u aan bij de Belastingdienst).",
+    "simple_nl": "De ‘verklaring betalingsgedrag nakoming fiscale verplichtingen’.",
+    "pipeline1_translate_then_simplify": "The statement of payment behaviour fulfills tax obligations .",
+    "pipeline2_simplify_then_translate": "The ante declaration of payment behaviour fulfills tax obligations (this you ask the Tax Administration)."
+  },
+  {
+    "item_id": "s35",
+    "doc_id": 31,
+    "complex_nl": "In dat plan komt ook te staan hoe bewoners kunnen meeprofiteren van de opgewekte energie.",
+    "simple_nl": "In dat plan komt ook te staan hoe bewoners voordeel kunnen hebben van de opgewekte energie.",
+    "pipeline1_translate_then_simplify": "That plan also includes how residents can benefit from the generated energy .",
+    "pipeline2_simplify_then_translate": "That plan also states how people can benefit from the energy generated."
+  },
+  {
+    "item_id": "s36",
+    "doc_id": 32,
+    "complex_nl": "Dat is een lijst met vragen over je gezondheid in verband met het coronavirus.",
+    "simple_nl": "Dat is een lijst met vragen over uw gezondheid vanwege het coronavirus.",
+    "pipeline1_translate_then_simplify": "This is a list of questions about your health .",
+    "pipeline2_simplify_then_translate": "We have a list of questions about how you're ill because of the corona virus."
+  },
+  {
+    "item_id": "s37",
+    "doc_id": 32,
+    "complex_nl": "Heb je 1 van de vragen met JA beantwoord, blijf dan thuis.",
+    "simple_nl": "U blijft thuis als u 1 van de vragen met JA beantwoordt.",
+    "pipeline1_translate_then_simplify": "If you answered one of the questions , stay home .",
+    "pipeline2_simplify_then_translate": "If you have answered one of the questions with YES YES, stay home."
+  },
+  {
+    "item_id": "s38",
+    "doc_id": 33,
+    "complex_nl": "Dit is strafbaar gesteld in artikel 225, eerste en tweede lid, van het Wetboek van Strafrecht.",
+    "simple_nl": "Dit is strafbaar volgens artikel 225, lid 1 en 2, van het Wetboek van Strafrecht.",
+    "pipeline1_translate_then_simplify": "This is punishable by the first and second paragraphs of Article 225 .",
+    "pipeline2_simplify_then_translate": "This is punishable by the first and second paragraphs of Article 225 of the Code of Criminal Law."
+  },
+  {
+    "item_id": "s39",
+    "doc_id": 33,
+    "complex_nl": "De gemeente Amsterdam verricht een integriteitsonderzoek, waarbij de basis daarvan wordt gevormd door de informatie die door u als aanvrager zelf wordt aangeleverd.",
+    "simple_nl": "Wij verrichten een integriteitsonderzoek, waarbij de basis daarvan de informatie is die u als aanvrager zelf aanlevert.",
+    "pipeline1_translate_then_simplify": "The municipality of Amsterdam conducts an integrity investigation , the basis of which is the information provided by you as an applicant .",
+    "pipeline2_simplify_then_translate": "The municipality of Amsterdam is investigating an integrity study, in which we look at what is said in the investigation into the municipality of Amsterdam."
+  },
+  {
+    "item_id": "s40",
+    "doc_id": 34,
+    "complex_nl": "Vroeger werden intersekse personen ook wel ‘hermafrodiet’ genoemd, maar dit woord wordt als kwetsend ervaren.",
+    "simple_nl": "Vroeger werden intersekse personen ook wel ‘hermafrodiet’ genoemd.",
+    "pipeline1_translate_then_simplify": "In the past , intersex persons were also called ''hermaphrodite-phage '' .",
+    "pipeline2_simplify_then_translate": "In the past, intersex people were sometimes called vaaframite lgatesie, but this word is not easy to understand."
+  },
+  {
+    "item_id": "s41",
+    "doc_id": 35,
+    "complex_nl": "De werkwijze van de cliëntenraad wordt in het huishoudelijk reglement van de cliëntenraad vastgelegd.",
+    "simple_nl": "De werkwijze van de cliëntenraad komt in het huishoudelijk reglement van de cliëntenraad.",
+    "pipeline1_translate_then_simplify": "The working methods of the client council shall be laid down in the client councils internal rules .",
+    "pipeline2_simplify_then_translate": "The Client of the Client Board are laid down in the Client's household regulations of the Client Board."
+  },
+  {
+    "item_id": "s42",
+    "doc_id": 35,
+    "complex_nl": "De directie kan de voorzitter of een lid van de cliëntenraad ontslaan op voordracht van dan wel in overleg met de cliëntenraad.",
+    "simple_nl": "De directie kan de voorzitter of een lid van de cliëntenraad ontslaan op verzoek van of in overleg met de cliëntenraad.",
+    "pipeline1_translate_then_simplify": "The Executive Board may dismiss the Chairperson or a member of the Customer Board .",
+    "pipeline2_simplify_then_translate": "The Executive Board may dismiss the Chairman or a member of the Committee of the Customer Board on a proposal from the Executive Board. The Executive Board may dismiss the Chairman or a member of the Committee on a proposal from the Customer Board."
+  },
+  {
+    "item_id": "s43",
+    "doc_id": 35,
+    "complex_nl": "Medezeggenschap doe je samen, ieder in zijn eigen rol en uit eigen perspectief.",
+    "simple_nl": "Medezeggenschap doe je samen, ieder in zijn eigen rol en uit eigen gezichtspunt.",
+    "pipeline1_translate_then_simplify": "Participation is done together , each in its own role .",
+    "pipeline2_simplify_then_translate": "Working together is important, everyone in their own role and from their own perspective."
+  },
+  {
+    "item_id": "s44",
+    "doc_id": 36,
+    "complex_nl": "Zij vinden het niet alleen belangrijk om diversiteit in de stad te vieren en ervoor te zorgen dat iedereen ertoe doet en mee kan doen, maar wil ook dat we zelf een inclusieve organisatie zijn.",
+    "simple_nl": "En ervoor te zorgen dat iedereen ertoe doet en mee kan doen.",
+    "pipeline1_translate_then_simplify": "They not only want to celebrate diversity in the city , but also want us to be an inclusive organisation ourselves .",
+    "pipeline2_simplify_then_translate": "It's important to have everyone in the city so that everyone can participate and participate."
+  },
+  {
+    "item_id": "s45",
+    "doc_id": 38,
+    "complex_nl": "Een pictogrammen is een ‘abstract beeld’: het staat symbool voor een betekenis en vereist dus aangeleerde kennis om de betekenis te kunnen duiden.",
+    "simple_nl": "Een pictogram is een ‘abstract beeld’: het staat symbool voor een betekenis. Je hebt dus aangeleerde kennis nodig voor die betekenis.",
+    "pipeline1_translate_then_simplify": "An icons is an image that is a symbol of meaning .",
+    "pipeline2_simplify_then_translate": "A icons is a sign that means something and you need to know what it means."
+  },
+  {
+    "item_id": "s46",
+    "doc_id": 38,
+    "complex_nl": "Uitzondering: bij instructief beeld voor laaggeletterden is het aan te raden om achtergrond of details juist te verwijderen (witte achtergrond).",
+    "simple_nl": "Uitzondering: bij instructief beeld voor laaggeletterden is het beter om achtergrond of details juist te verwijderen (witte achtergrond).",
+    "pipeline1_translate_then_simplify": " Exception : In the case of instructional image for low-lettered people , it is best to remove background or details correctly .",
+    "pipeline2_simplify_then_translate": "In the case of instructional image for low-lettered people, it is wise to delete background or details correctly (white background)."
+  },
+  {
+    "item_id": "s47",
+    "doc_id": 39,
+    "complex_nl": "Een worksop speciaal bij jou op de club Dat kan… kijk op de volgende pagina.",
+    "simple_nl": "U kunt ook een workshop speciaal bij u op de club krijgen. Kijk daarvoor op de volgende pagina.",
+    "pipeline1_translate_then_simplify": "A workhop especially with you at the club .",
+    "pipeline2_simplify_then_translate": "Look at the next page. We can do a workmanship especially for you at the club. We can... look at the next page."
+  },
+  {
+    "item_id": "s48",
+    "doc_id": 39,
+    "complex_nl": "Ben jij een trainerscoördinator en gemotiveerd om met jouw trainers aan de slag te gaan?",
+    "simple_nl": "Misschien bent u een trainerscoördinator en wilt u met uw trainers aan de slag gaan.",
+    "pipeline1_translate_then_simplify": "Are you motivated to work with your trainers ?",
+    "pipeline2_simplify_then_translate": "If you're a trainer trainer and motivated to work with your trainers?"
+  },
+  {
+    "item_id": "s49",
+    "doc_id": 39,
+    "complex_nl": "Je kan de website delen en je trainers zelf laten kiezen wat ze interessant vinden of die dingen delen die jij belangrijk vind.",
+    "simple_nl": "U kunt de website delen en uw trainers zelf laten kiezen wat ze interessant vinden. Of die dingen delen die u belangrijk vindt.",
+    "pipeline1_translate_then_simplify": "You can share the website and let your trainers choose what they find interesting .",
+    "pipeline2_simplify_then_translate": "You can share the website and let your trainers choose what they like or what they don't."
+  },
+  {
+    "item_id": "s50",
+    "doc_id": 41,
+    "complex_nl": "Vanaf die datum betalen wij uw gewerkte uren 100% uit en de niet gewerkte uren 90%.",
+    "simple_nl": "Vanaf die datum betalen wij uw gewerkte uren 100 procent uit en de niet gewerkte uren voor 90 procent.",
+    "pipeline1_translate_then_simplify": "From that date we will pay out 100 % of your hours worked and 90 % of the hours not worked .",
+    "pipeline2_simplify_then_translate": "We pay out your hours worked 100% and hours not worked 90%. We pay out your hours worked 100% and hours not worked 90%. We pay out your hours not worked 100% and hours not worked 90%."
+  },
+  {
+    "item_id": "s51",
+    "doc_id": 42,
+    "complex_nl": "Wilt u weer ouderschapsverlof hervatten dan moet u dat opnieuw overleggen met uw leidinggevende en opnieuw aanvragen in MijnP&O.",
+    "simple_nl": "U moet dan opnieuw overleggen met uw leidinggevende als u weer ouderschapsverlof wilt. En bij goedkeuring opnieuw aanvragen in MijnP&O.",
+    "pipeline1_translate_then_simplify": "If you wish to resume parental leave , you must consult with your supervisor again .",
+    "pipeline2_simplify_then_translate": "If you want your employer to take parental leave, you must consult with your supervisor again and apply again in MijnP&D."
+  },
+  {
+    "item_id": "s52",
+    "doc_id": 43,
+    "complex_nl": "Dan hebt u recht op 70% loondoorbetaling over niet-gewerkte uren tot u een nieuwe functie of (gedeeltelijk) ontslag krijgt.",
+    "simple_nl": "Dit blijft zo tot u een nieuwe functie of (gedeeltelijk) ontslag krijgt.",
+    "pipeline1_translate_then_simplify": "Then you are entitled to 70 % pay on non-working hours until you get a new job .",
+    "pipeline2_simplify_then_translate": "If you do not get a new job or (partly) dismissal, you will receive 70% pay over unpaid hours if you get a new job or if another job is created."
+  },
+  {
+    "item_id": "s53",
+    "doc_id": 43,
+    "complex_nl": "Vanaf die datum betalen wij uw gewerkte uren 100% uit en de niet gewerkte uren 70%.",
+    "simple_nl": "Vanaf die datum betalen wij uw gewerkte uren 100 procent uit en de niet gewerkte uren voor 70 procent.",
+    "pipeline1_translate_then_simplify": "From that date we will pay out 100 % of your hours worked and 70 % of the hours not worked .",
+    "pipeline2_simplify_then_translate": "We pay out your hours worked 100% and hours not worked 70%. We pay out your hours worked 100% and hours not worked 70%. We pay out your hours not worked 100% and hours not worked 70%."
+  },
+  {
+    "item_id": "s54",
+    "doc_id": 44,
+    "complex_nl": "Van week 53 tot en met week 104 hebt u recht op 75% loondoorbetaling over niet-gewerkte uren.",
+    "simple_nl": "Van week 53 tot en met week 104 hebt u recht op 75 procent loondoorbetaling over niet-gewerkte uren.",
+    "pipeline1_translate_then_simplify": "From week 53 through week 104 , you get 75 % pay on non-working hours .",
+    "pipeline2_simplify_then_translate": "From week 53 through week 104, you are entitled to 75% pay on non-working hours."
+  },
+  {
+    "item_id": "s55",
+    "doc_id": 46,
+    "complex_nl": "Via West Begroot kunnen bewoners zelf plannen aandragen die zij nodig en belangrijk vinden voor hun medebewoners, buurt of stadsdeel.",
+    "simple_nl": "Bewoners kunnen zelf plannen insturen die zij belangrijk vinden voor hun medebewoners, buurt of stadsdeel.",
+    "pipeline1_translate_then_simplify": "Through West Budget , residents can present themselves with plans that they think are necessary and important for their neighborhood or district .",
+    "pipeline2_simplify_then_translate": "West Budgeted West Budgeted residents themselves make plans for what they consider important for their neighborhood or district."
+  },
+  {
+    "item_id": "s56",
+    "doc_id": 46,
+    "complex_nl": "Die thema’s waren de onderwerpen waaraan het stadsdeel meer aandacht wilde besteden, zoals bijvoorbeeld diversiteit, duurzaamheid en meer groen.",
+    "simple_nl": "Dat waren de grote onderwerpen waaraan we meer aandacht wilden besteden.",
+    "pipeline1_translate_then_simplify": "These themes were the topics to which the district wanted to pay more attention , such as diversity and more greenery .",
+    "pipeline2_simplify_then_translate": "The topics that the district wanted to address to the district, such as more greenery in the neighborhood."
+  },
+  {
+    "item_id": "s57",
+    "doc_id": 47,
+    "complex_nl": "Pas wanneer de exacte locatie van de ligplaatsen bekend zijn en wanneer de ligplaatsvergunningen voor die specifieke locaties zijn getoetst aan de weigeringsgronden van de Verordening op het binnenwater 2010, kunnen besluiten over de definitieve ligplaatsvergunningen worden genomen.",
+    "simple_nl": "En dan moeten die ligplekken ook getoetst zijn aan de weigeringsgronden van de Verordening op het binnenwater 2010.",
+    "pipeline1_translate_then_simplify": "Only when the exact location of the berths is known and when the berth permits for those specific locations have been checked against the grounds for refusal of the Regulation in inland waters 2010 , can the final berth permits be decided .",
+    "pipeline2_simplify_then_translate": "Only when the exact location of the berths is known and the berths are granted can it be decided whether the final berth permits are granted."
+  },
+  {
+    "item_id": "s58",
+    "doc_id": 48,
+    "complex_nl": "Ook de afspraken voor het 2de tbc-onderzoek van de IND stellen wij uit.",
+    "simple_nl": "Wij stellen ook de afspraken voor het tweede tuberculose-onderzoek van de IND uit.",
+    "pipeline1_translate_then_simplify": "We postponed the second TB research of the IND .",
+    "pipeline2_simplify_then_translate": "We also make the arrangements for the second TB study of the IND no longer."
+  },
+  {
+    "item_id": "s59",
+    "doc_id": 48,
+    "complex_nl": "Afspraken, zoals het bron- en contactonderzoek en het 1ste tbc-onderzoek van de IND, gaan wel door.",
+    "simple_nl": "Bijvoorbeeld het bron- en contactonderzoek en het eerste tuberculose-onderzoek van de IND.",
+    "pipeline1_translate_then_simplify": "Appointments , such as the source and contact research , will continue .",
+    "pipeline2_simplify_then_translate": "Making appointments, such as passing on information, such as the source and contact research and the 1st TB research of the IND, will not happen."
+  },
+  {
+    "item_id": "s60",
+    "doc_id": 48,
+    "complex_nl": "Als u een verwijzing van uw (huis) arts heeft gaat uw afspraak ook door.",
+    "simple_nl": "Uw afspraak gaat ook door als u een verwijzing van uw (huis)arts hebt.",
+    "pipeline1_translate_then_simplify": "If you have a referral from your (home ) doctor , your appointment will continue .",
+    "pipeline2_simplify_then_translate": "If you have a referral from your (house) doctor, your appointment will also continue if you make an appointment with the doctor."
+  }
+]
