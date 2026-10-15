@@ -20,9 +20,9 @@
 ## Week 2 (19–25 Oct): Experiments
 
 ### Simplifier evaluation (controls)
-- [ ] Dutch UL2 model on Amsterdam → SARI against Dutch references
-- [ ] English BART model on SimPA → SARI against the 3 references (main English test)
-- [ ] English BART model on MT-translated Amsterdam → SARI (secondary test; note MT noise in references)
+- [x] Dutch UL2 model on Amsterdam → SARI against Dutch references (SARI = 40.10, n=1310)
+- [x] English BART model on SimPA → SARI against the 3 references (main English test) (SARI = 34.84, 876/1100 rows had all 3 refs)
+- [x] English BART model on MT-translated Amsterdam → SARI (secondary test; note MT noise in references) (SARI = 35.61, pseudo-refs)
 - [ ] (Optional) English BART model on ASSET or TurkCorpus (in-domain comparison)
 
 ### Baselines
