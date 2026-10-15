@@ -11,11 +11,11 @@
   - [x] Pin library versions (`trhansformers`, `sentencepiece`, `easse`)
   - [x] Fix random seeds
 - [x] Load the Amsterdam dataset
-  - [ ] Compute stats: documents, sentence pairs, words, avg sentence length (complex vs simple)
+  - [x] Compute stats: documents, sentence pairs, words, avg sentence length (complex vs simple)
 - [x] Load the SimPA dataset - 6e0c011d0166c1a8b571760c87bfd3779f3cce49
   - [x] Compute the same stats for a side-by-side table
-- [ ] Define the "complex sentence" sampling rule (length or readability threshold + seed) and write it down
-- [ ] Draw the 60-sentence human-eval sample
+- [x] Document the human-eval sentence selection rule (eligibility filters + sampling seed/cap) — complexity itself comes from the dataset's Complex/Simple pairing, not a threshold we define: eligible `Complex` sentences need ≥12 whitespace tokens, must end in `. ? !`, and have no leftover anonymization artifacts (stray punctuation gaps, `[` placeholders); rows where `Complex == Simple` or duplicate `Complex` text are dropped. From the eligible pool, 60 sentences are drawn with `SEED = 42`, capped at 3 per document for diversity (see `project.ipynb`).
+- [x] Draw the 60-sentence human-eval sample
 
 ## Week 2 (19–25 Oct): Experiments
 
