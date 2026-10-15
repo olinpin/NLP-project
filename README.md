@@ -41,10 +41,10 @@
 - [x] Regex check: do numbers, dates and names survive? — Pipeline 1: 86.2% numbers / 95.7% dates / 88.2% capitalized-words kept; Pipeline 2: 80.9% / 73.9% / 73.0% (capitalized-words is a cheap proxy for names, not real NER; see `project.ipynb`)
 
 ### Evaluation website
-- [ ] Show Dutch source + outputs A/B in random order
-- [ ] Two 1–5 ratings per output (ease of understanding, key info retained)
-- [ ] Preference choice
-- [ ] Log the A/B → pipeline mapping server-side only
+- [x] Show Dutch source + outputs A/B in random order — live at https://nlp-project.hnat-dev.com/, all 60 sentences loaded with real pipeline outputs
+- [x] Two 1–5 ratings per output (ease of understanding, key info retained)
+- [x] Preference choice — A / equally good / B, ties kept rather than forced
+- [x] Log the A/B → pipeline mapping server-side only — verified: no pipeline names in client-side code/storage, mapping only in the judgments export
 - [ ] Test the site on one person
 - [ ] Start the paper outline in Overleaf (ACL template)
 
